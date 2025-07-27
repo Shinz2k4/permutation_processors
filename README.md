@@ -15,16 +15,16 @@ Viết chương trình nhập vào một số nguyên `N` (1 ≤ N < 15). Sinh r
 ## Nội dung báo cáo
 
 -  **Phân tích giải thuật song song**:
-        - So sánh **hiệu quả (speedup, scalability)** theo số lượng processor.
-        - Đánh giá giữa **lý thuyết** và **thực nghiệm**.
+      - So sánh **hiệu quả (speedup, scalability)** theo số lượng processor.
+      - Đánh giá giữa **lý thuyết** và **thực nghiệm**.
 
 -  **Giải thích kết quả thu được**:
-        - Tại sao tốc độ cải thiện hoặc không?
-        - Ảnh hưởng của **overhead khi tăng số threads**.
+      - Tại sao tốc độ cải thiện hoặc không?
+      - Ảnh hưởng của **overhead khi tăng số threads**.
 
 -  **Trình bày báo cáo**:
-        - Đẹp, rõ ràng.
-        - Có **biểu đồ thời gian**, **bảng số liệu**, và **đánh giá kết luận**.
+      - Đẹp, rõ ràng.
+      - Có **biểu đồ thời gian**, **bảng số liệu**, và **đánh giá kết luận**.
 
 ---
 
