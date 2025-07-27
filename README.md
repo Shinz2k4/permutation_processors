@@ -1,19 +1,18 @@
 # permutation_processors
 Bài tập lớn môn Lập trình song song  
 ## Đề bài
-• Thực hiện sinh hoán vị bằng giải thuật tuần tự.  
+Viết chương trình nhập vào một số nguyên N (1 ≤ N < 15). Sinh ra tất cả các hoán vị của dãy số từ 1 đến N.
+•	Thực hiện sinh hoán vị bằng giải thuật tuần tự.
+•	Thực hiện sinh hoán vị song song bằng các kỹ thuật:
+   o	OpenMP
+   o	Pthreads
+   o	MPI
+•	Khảo sát hiệu năng của các chương trình song song với số lượng processor (threads) lần lượt là: p = 3, 5, 7, 9, 11.
+•	Viết báo cáo gồm:
+   o	Phân tích giải thuật song song: so sánh hiệu quả (speedup, scalability) theo số lượng processor, đánh giá giữa lý thuyết và thực nghiệm.
+   o	Giải thích các kết quả thu được: tại sao tốc độ cải thiện hoặc không, ảnh hưởng của overhead khi tăng số threads,...
+   o	Trình bày báo cáo đẹp, rõ ràng, có biểu đồ thời gian, bảng số liệu, đánh giá kết luận.
 
-• Thực hiện sinh hoán vị song song bằng các kỹ thuật:  
-   - OpenMP  
-   - Pthreads  
-   - MPI  
-
-• Khảo sát hiệu năng của các chương trình song song với số lượng processor (threads) lần lượt là p = 3, 5, 7, 9, 11.  
-
-• Viết báo cáo gồm:  
-   - Phân tích giải thuật song song  
-   - Giải thích kết quả  
-   - Trình bày biểu đồ, bảng số liệu,...
 
 ## Lệnh biên dịch và chạy chương trình  
 ### Chạy tuần tự 
