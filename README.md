@@ -6,11 +6,11 @@ Viết chương trình nhập vào một số nguyên `N` (1 ≤ N < 15). Sinh r
 ### Yêu cầu:
 -  Thực hiện sinh hoán vị bằng **giải thuật tuần tự**.
 -  Thực hiện sinh hoán vị **song song** bằng các kỹ thuật:
-  - OpenMP
-  - Pthreads
-  - MPI
+      - OpenMP
+      - Pthreads
+      - MPI  
 -  **Khảo sát hiệu năng** của các chương trình song song với số lượng processor (threads) lần lượt là:
-  - `p = 3, 5, 7, 9, 11`.
+      - `p = 3, 5, 7, 9, 11`.  
 
 ## Nội dung báo cáo
 
